@@ -44,6 +44,7 @@
                         <manifestEntries>
                             <Built-By>netbuffer</Built-By>
                             <Premain-Class>cn.netbuffer.PreMainAgent</Premain-Class>
+                            <Main-Class>cn.netbuffer.HelloMain</Main-Class>
                             <Can-Redefine-Classes>true</Can-Redefine-Classes>
                             <Can-Retransform-Classes>true</Can-Retransform-Classes>
                         </manifestEntries>
